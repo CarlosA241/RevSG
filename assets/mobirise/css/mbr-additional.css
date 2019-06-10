@@ -849,3 +849,117 @@ blockquote {
 #features15-4 .mbr-cards-row {
   margin-top: 40px;
 }
+#menu-m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-m .navbar-caption {
+  color: #ffffff;
+}
+#menu-m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-m .close-icon::before,
+#menu-m .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-m .link,
+#menu-m .dropdown-item {
+  color: #ffffff;
+}
+#menu-m .link {
+  font-size: 0.6rem;
+}
+#menu-m .dropdown-item,
+#menu-m .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-m .link:hover,
+#menu-m .link:focus {
+  color: #f39c12;
+}
+#menu-m .dropdown-item:hover::before,
+#menu-m .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-m .dropdown-item:hover,
+#menu-m .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-menu {
+  background: #1a242f;
+}
+#menu-m .nav-dropdown-sm .link:focus,
+#menu-m .nav-dropdown-sm .link:hover,
+#menu-m .nav-dropdown-sm .dropdown-item:focus,
+#menu-m .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-m .navbar,
+#menu-m .nav-dropdown-sm,
+#menu-m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-m .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-m .bg-color.transparent.opened .link:hover,
+#menu-m .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#features1-p .mbr-section-title {
+  font-weight: 700;
+}
+#features1-p .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features5-r .lead {
+  color: #9fa3a7;
+}
+#features5-r .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-r .card-number {
+  left: -20px;
+}
+#features5-s .lead {
+  color: #9fa3a7;
+}
+#features5-s .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-s .card-number {
+  left: -20px;
+}
+#features5-t .lead {
+  color: #9fa3a7;
+}
+#features5-t .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-t .card-number {
+  left: -20px;
+}
+#features15-v .mbr-section-title {
+  font-weight: 700;
+}
+#features15-v .display-6 {
+  text-transform: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  color: #fff;
+}
+#features15-v .mbr-cards-row {
+  margin-top: 40px;
+}
